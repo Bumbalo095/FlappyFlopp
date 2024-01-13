@@ -38,3 +38,11 @@
     top: 100px;
     border-radius: 50%;
 }
+#jumpButton {
+  width: 400px;
+  height: 75px;
+  background-color: aqua;
+  position: absolute;
+  top: 520px;
+  left: 280px;
+}
